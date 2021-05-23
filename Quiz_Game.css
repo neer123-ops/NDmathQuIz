@@ -1,0 +1,50 @@
+.body_background {
+    background-image: url("Blackbg.jpg");
+ }
+ 
+     .login_div1 , .login_div2
+     {
+         background: rgb(235, 184, 16);
+         padding: 10px;
+         float: none;
+         border-radius: 15px;
+     }
+ 
+     #head_info
+     {
+         padding: 10px;
+         float: none;
+         border-radius: 15px;
+     }
+ 
+ #img_earth 
+ {
+     width: 100px;
+     height: 100px;
+ }
+ 
+ #player1_name , #player2_name
+ {
+     display: inline-block;
+     margin-left: 20px;
+     color: greenyellow;
+ }
+ #word
+ {
+     width: 40%;
+ }
+ #word_display
+ {
+     letter-spacing: 7px;
+ }
+
+ #output
+{
+background-image: url("Blackbg.jpg");
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
